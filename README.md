@@ -12,7 +12,7 @@ The repository progresses from NumPy fundamentals and linear algebra to differen
 # Topics covered
 | Topic | Example | Concepts |
 |---|---|---|
-| [NumPy fundamentals](./1.NumPy) | Heart-rate analysis | Arrays, statistics, filtering |
+| [NumPy fundamentals](./1.Heartrate.py) | Heart-rate analysis | Arrays, statistics, filtering |
 | [Vectorization](./2.Vectorization) | Audio RMS calculation | Efficient array operations |
 | [Floating-point arithmetic](./3.Floating%20Point%20Arithmetics%20and%20Numerical%20Errors) | Numerical error exercises | Precision and floating-point behavior |
 | [Matrix algebra](./4.Matrix%20Algebra%20and%20Operations) | Drone navigation | Matrix and vector operations |
